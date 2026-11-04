@@ -1,0 +1,11 @@
+{
+  "title": "TyresCRM",
+  "description": "Manage tyre inventory, purchases, sales, customers, and expenses while tracking FIFO-based profits and generating customer bills for a motorcycle tyre shop.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
